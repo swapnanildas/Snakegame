@@ -188,7 +188,7 @@ function generateFood(){
       });
 
 }
-
+// This is a comment in the javascript file
 function drawFood(){
     // snakeboard_ctx.fillStyle = 'lightgreen';
     // snakeboard_ctx.strokestyle = 'darkgreen';
